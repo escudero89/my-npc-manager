@@ -1,6 +1,6 @@
 {
   "name": "my-npc-manager",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple NPC manager.",
   "main": "index.js",
   "scripts": {
