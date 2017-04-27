@@ -1,7 +1,29 @@
 {
-  "name": "ui-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "my-npc-manager",
+  "version": "0.0.1",
+  "description": "A simple NPC manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escudero89/my-npc-manager.git"
+  },
+  "keywords": [
+    "heroku",
+    "express",
+    "dnd",
+    "5e",
+    "npc",
+    "manager"
+  ],
+  "author": "Cristian Escudero <escudero89@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/escudero89/my-npc-manager/issues"
+  },
+  "homepage": "https://github.com/escudero89/my-npc-manager#readme",
   "dependencies": {
     "classnames": "^2.2.5",
     "react": "^15.5.4",
