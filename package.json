@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/escudero89/my-npc-manager/issues"
   },
-  "homepage": "https://github.com/escudero89/my-npc-manager#readme",
+  "homepage": "https://my-npc-manager.herokuapp.com",
   "dependencies": {
     "classnames": "^2.2.5",
     "react": "^15.5.4",
@@ -43,4 +43,3 @@
     "npm": "^4.2.0"
   }
 }
-
