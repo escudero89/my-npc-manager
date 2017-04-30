@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/escudero89/my-npc-manager/issues"
   },
-  "homepage": "https://my-npc-manager.herokuapp.com",
+  "homepage": "https://my-npc-manager.firebaseapp.com",
   "dependencies": {
     "classnames": "^2.2.5",
     "firebase": "^3.9.0",
