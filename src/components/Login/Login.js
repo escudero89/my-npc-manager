@@ -12,7 +12,7 @@ export default function Login(props) {
       <h1>
         Login
       </h1>
-      <form method="post" onSubmit={props.onSubmit()}>
+      <form method="post" onSubmit={props.onSubmit}>
         <Grid>
           <Row>
             <Col xs={6} md={3}>
