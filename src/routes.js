@@ -9,6 +9,7 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 import Home from './components/Home';
 import About from './components/About';
+import Login from './components/Login';
 import NotFound from './components/NotFound';
 
 import MainAppBar from './mui/MainAppBar';
@@ -25,6 +26,7 @@ const Routes = (props) => (
         <hr/>
         <Switch>
           <Route exact path="/" component={Home}/>
+          <Route exact path="/login" component={Login}/>
           <Route path="/about" component={About}/>
           <Route component={NotFound}/>
         </Switch>
